@@ -22,9 +22,9 @@ st.markdown("""
 
         /* Set width for the title */
         .main-title {
-            font-size: 28px;
+            font-size: 24px;
             font-weight: bold;
-            width: 820px; /* Set title width */
+            width: 1020px; /* Set title width */
             word-break: break-word;
             hyphens: auto;  /* Adds hyphenation for long words */
         }
