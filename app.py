@@ -24,7 +24,7 @@ st.markdown("""
         .main-title {
             font-size: 28px;
             font-weight: bold;
-            width: 1020px; /* Set title width */
+            width: 820px; /* Set title width */
             word-break: break-word;
             hyphens: auto;  /* Adds hyphenation for long words */
         }
