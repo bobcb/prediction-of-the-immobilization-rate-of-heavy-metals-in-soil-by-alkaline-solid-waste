@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import streamlit as st
@@ -22,7 +22,7 @@ st.markdown("""
 
         /* Set width for the title */
         .main-title {
-            font-size: 32px;
+            font-size: 28px;
             font-weight: bold;
             width: 1020px; /* Set title width */
             word-break: break-word;
@@ -89,4 +89,10 @@ if st.button('Predict'):
     if feature != 0:
         st.success(f'Residual: {residual:.2f}%')
     
+
+
+# In[ ]:
+
+
+
 
